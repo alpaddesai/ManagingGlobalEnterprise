@@ -2,6 +2,6 @@
 
 Project provides an overview of various fundamentals of international business
 
-![image](Slide1.jpg)
+![image](Slide1.JPG)
 
-![image](Slide2.jpg)
+![image](Slide2.JPG)
