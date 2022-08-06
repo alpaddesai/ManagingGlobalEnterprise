@@ -13,6 +13,11 @@ Project provides an overview of various fundamentals of international business
 ##![imaged](ElectricVehicle2.JPG)
 ##![imaged](ElectricVehicle3.JPG)
 ##![imaged](ElectricVehicle4.JPG)
+##![image](ElectricVehicle5.JPG)
+##![image](ElectricVehicle6.JPG)
+##![image](ElectricVehicle7.JPG)
+##![image](ElectricVehicle8.JPG)
+##![image](ElectricVehicle9.JPG)
 
 #### reference International business Varma, Sumati.
 
