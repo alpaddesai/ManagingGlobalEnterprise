@@ -1,4 +1,4 @@
-# Managing Global Enterprise
+## Managing Global Enterprise
 
 Project provides an overview of various fundamentals of international business
 
