@@ -19,7 +19,6 @@ Project provides an overview of various fundamentals of international business
 ##![image](ElectricVehicle8.JPG)
 ##![image](ElectricVehicle9.JPG)
 
-##![image](GMAT_TestScore.jpg)
 #### reference International business Varma, Sumati.
 
 Additional details reference https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
