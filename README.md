@@ -21,4 +21,6 @@ Project provides an overview of various fundamentals of international business
 
 #### reference International business Varma, Sumati.
 
+![image](USCopyrightCertificate.png)
+
 Additional details reference https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
