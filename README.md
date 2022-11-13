@@ -21,4 +21,4 @@ Project provides an overview of various fundamentals of international business
 
 ![image](USCopyrightCertificate.png)
 
-Additional details reference https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
+Additional details reference https://github.com/alpaddesai/Internationalbusiness and https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
