@@ -20,9 +20,6 @@ Project provides an overview of various fundamentals of international business
 ## Practice exam
 ##![image](exam.jpg)
 
-## Exam
-![image](CFAExam.jpg)
-
 #### reference International business Varma, Sumati.
 
 ![image](USCopyrightCertificate.png)
