@@ -26,5 +26,4 @@ Project provides an overview of various fundamentals of international business
 
 ![image](Ethics.jpg)
 
-Additional details reference https://github.com/alpaddesai/FundamentalsInternationalbusiness
-
+Additional details reference https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
